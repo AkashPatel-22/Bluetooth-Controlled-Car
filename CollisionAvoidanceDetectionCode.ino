@@ -1,4 +1,4 @@
-ad// Define the pins for each sensor
+// Define the pins for each sensor
 const int trigPin1 = 2;
 const int echoPin1 = 3;
 const int trigPin2 = 4;
